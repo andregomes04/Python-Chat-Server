@@ -1,6 +1,6 @@
 # cd_chat_server
 
-This is a template repository for Computação Distribuida assignment 1
+Code for Computação Distribuida 22/23
 
 ## How to execute tests locally
 
